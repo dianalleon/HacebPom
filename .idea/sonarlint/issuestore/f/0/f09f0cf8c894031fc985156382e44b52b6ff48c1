@@ -1,0 +1,8 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¤Êì+
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(÷°Ç þÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Žæ¦ûÿÿÿÿ
